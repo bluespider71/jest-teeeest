@@ -1,0 +1,61 @@
+.css-1vm0r4s-MuiPaper-root {
+    width: 450px;
+    height: 39px;
+    background: #FFFFFF;
+    border: 1px solid #BCBCBD;
+    border-radius: 6px;
+    box-shadow: none !important;
+}
+
+.inputs-container {
+    width: 510px;
+    height: 99px;
+    background: #FBFBFC;
+    border: 1px solid #E3E6E8;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    gap: 10px;
+    justify-content: center;
+}
+.rule:hover{
+    background-color: grey;
+    cursor: pointer;
+}
+.addedRule{
+    cursor: pointer;
+    display: flex;
+}
+
+.secondstep-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.css-1vm0r4s-MuiPaper-root {
+    width: 450px !important;
+}
+
+.searched-texts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 12px;
+    width: 242px;
+    height: 20px;
+    background: rgba(29, 201, 212, 0.2);
+    border-radius: 6px;
+    margin-left: 10px;
+}
+
+.searched-items {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 18px;
+}

@@ -1,0 +1,353 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="MuiBox-root css-8atqhb"
+>
+  <h1>
+    Rule Builder 
+  </h1>
+  <div
+    className="MuiStepper-root MuiStepper-horizontal css-m5vj9m-MuiStepper-root"
+  >
+    <div
+      className="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+    >
+      <span
+        className="MuiStepLabel-root MuiStepLabel-horizontal css-ascpo7-MuiStepLabel-root"
+      >
+        <span
+          className="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-active css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              className="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+              dominantBaseline="central"
+              textAnchor="middle"
+              x="12"
+              y="12"
+            >
+              1
+            </text>
+          </svg>
+        </span>
+        <span
+          className="MuiStepLabel-labelContainer css-16ubnlw-MuiStepLabel-labelContainer"
+        >
+          <span
+            className="MuiStepLabel-label Mui-active css-qivjh0-MuiStepLabel-label"
+          >
+            Select Expression
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled css-j5w0w9-MuiStepConnector-root"
+    >
+      <span
+        className="MuiStepConnector-line MuiStepConnector-lineHorizontal css-z7uhs0-MuiStepConnector-line"
+      />
+    </div>
+    <div
+      className="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+    >
+      <span
+        className="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled css-ascpo7-MuiStepLabel-root"
+      >
+        <span
+          className="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              className="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+              dominantBaseline="central"
+              textAnchor="middle"
+              x="12"
+              y="12"
+            >
+              2
+            </text>
+          </svg>
+        </span>
+        <span
+          className="MuiStepLabel-labelContainer css-16ubnlw-MuiStepLabel-labelContainer"
+        >
+          <span
+            className="MuiStepLabel-label Mui-disabled css-qivjh0-MuiStepLabel-label"
+          >
+            Define Rule Set
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled css-j5w0w9-MuiStepConnector-root"
+    >
+      <span
+        className="MuiStepConnector-line MuiStepConnector-lineHorizontal css-z7uhs0-MuiStepConnector-line"
+      />
+    </div>
+    <div
+      className="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+    >
+      <span
+        className="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled css-ascpo7-MuiStepLabel-root"
+      >
+        <span
+          className="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              className="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+              dominantBaseline="central"
+              textAnchor="middle"
+              x="12"
+              y="12"
+            >
+              3
+            </text>
+          </svg>
+        </span>
+        <span
+          className="MuiStepLabel-labelContainer css-16ubnlw-MuiStepLabel-labelContainer"
+        >
+          <span
+            className="MuiStepLabel-label Mui-disabled css-qivjh0-MuiStepLabel-label"
+          >
+            Create Rule
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="type-text"
+    >
+       
+      Which Type of Rule do you want to create? 
+       
+    </p>
+    <div
+      className="group-buttons"
+    >
+      <div
+        className="first-group-buttons"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium icon-buttons first-button css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            src="first-icon.png"
+          />
+          <p
+            className="button-texts"
+          >
+             Union 
+          </p>
+          <img
+            className="button-imgs-first"
+            src="required.png"
+          />
+        </button>
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium icon-buttons second-button css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            src="second-icon.png"
+          />
+          <p
+            className="button-texts"
+          >
+             Intersection 
+          </p>
+          <img
+            className="button-imgs-second"
+            src="required.png"
+          />
+        </button>
+      </div>
+      <div
+        className="second-group-buttons"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium icon-buttons css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            src="third-icon.png"
+          />
+          <p
+            className="button-texts"
+          >
+             Complement 
+          </p>
+          <img
+            className="button-imgs-third"
+            src="required.png"
+          />
+        </button>
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium icon-buttons fourth-button css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            src="fourth-icon.png"
+          />
+          <p
+            className="button-texts"
+          >
+             Difference 
+          </p>
+          <img
+            className="button-imgs-fourth"
+            src="required.png"
+          />
+        </button>
+      </div>
+    </div>
+    <div />
+  </div>
+  <div
+    className="MuiBox-root css-2royc9"
+  >
+    <button
+      className="MuiButtonBase-root Mui-disabled MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-a1sg1c-MuiButtonBase-root-MuiButton-root"
+      disabled={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={-1}
+      type="button"
+    >
+      Back
+    </button>
+    <div
+      className="MuiBox-root css-11qjisw"
+    />
+    <button
+      className="MuiButtonBase-root Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+      disabled={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={-1}
+      type="button"
+    >
+      Next
+    </button>
+  </div>
+</div>
+`;

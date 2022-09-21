@@ -1,0 +1,109 @@
+@import url('http://fonts.cdnfonts.com/css/sora');
+
+.type-text {
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px;
+    color: #0F2830;
+}
+
+.icon-buttons {
+    align-items: center !important;
+    padding: 0px 0px 0px 10px !important;
+    width: 205px !important ;
+    height: 29px ;
+    background: #FFFFFF ;
+    border: 1px solid rgba(94, 110, 120, 0.2) !important;
+    border-radius: 6px;
+    justify-content: flex-start !important;
+}
+
+.group-buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-group-buttons {
+    margin-bottom: 20px;
+}
+
+.second-button {
+    margin-left: 11px !important;
+}
+
+.fourth-button {
+    margin-left: 11px !important;
+}
+
+.button-texts {
+    margin-left: 8px;
+}
+
+.button-imgs-first {
+    margin-left: 100px;
+}
+
+.button-imgs-second {
+    margin-left: 45px;
+}
+
+.button-imgs-third {
+    margin-left: 55px;
+}
+
+.button-imgs-fourth {
+    margin-left: 62px;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: #2EE297 !important;
+}
+
+.css-117w1su-MuiStepIcon-text {
+    display: none;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: #2EE297 !important;
+}
+
+.MuiStepLabel-root.MuiStepLabel-horizontal.css-ascpo7-MuiStepLabel-root {
+    display: flex;
+    flex-direction: column;
+}
+
+.css-qivjh0-MuiStepLabel-label.Mui-active {
+    color: #2EE297 !important;
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 10px;
+}
+
+.css-qivjh0-MuiStepLabel-label.Mui-completed {
+    color: #2EE297 !important;
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 10px;
+}
+
+.main-modal-contaiiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 60px 30px 30px;
+    width: 600px;
+    height: 192px;
+    background: #FFFFFF;
+    border: 1px solid #E6E6E7;
+    border-radius: 6px;
+    margin-top: 20px;
+}
